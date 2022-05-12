@@ -1,4 +1,4 @@
-# SETP Wordle
+# Wordle-ish
 
 A game inspired by the popular Wordle word game - played via the command line. I was aiming to create a game with the same logic and rules as Wordle. The program runs but its not perfect and doesn't run 100% to Wordle's logic yet.
 
