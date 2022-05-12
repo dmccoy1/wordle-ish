@@ -10,8 +10,8 @@ A game inspired by the popular Wordle word game - played via the command line. I
 ### Built With
 
 * JavaScript
-* [Random Words API](https://rapidapi.com/sheharyar566/api/random-words5)
-* [prompt-sync](https://www.npmjs.com/package/prompt-sync)
+* [Random Words API](https://rapidapi.com/sheharyar566/api/random-words5) - Pulls a random 5 letter word 
+* [prompt-sync](https://www.npmjs.com/package/prompt-sync) - needed for user input into command line
 
 
 ### Installation
